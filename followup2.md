@@ -1,11 +1,11 @@
-### Visualization 2
+### Visualization 3
 **Aim (aim):** Here, we see information regarding six known creators and their respective records in different time periods and versions. The precision of locations that they plotted are also communicating to the user. From the plot we could easily infer that most of the records are referred by its location. When the version increases the location is more precise. 
 
 **Visual Design Type (vistype):** Multi Feature Scatter Plot
 
 **Image:** 
 - - -
-![Visualization 2](https://github.com/Rajeev-B-R/CSCM37/blob/main/2%20-%20multi%20feature%20scatter%20plot.png?raw=true)
+![Visualization 3](https://github.com/Rajeev-B-R/CSCM37/blob/main/2%20-%20multi%20feature%20scatter%20plot.png?raw=true)
 
 Source Code
 ```python
